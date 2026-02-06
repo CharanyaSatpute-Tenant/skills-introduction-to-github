@@ -2,6 +2,8 @@
 
 _Use Git version control to work on a game using command line (CLI) and VS Code._
 
+> **🎓 Learn Git to master GitHub!** This exercise teaches you Git fundamentals—the foundation for collaborating on GitHub. After completing these exercises, check out [GITHUB_FUNDAMENTALS.md](./GITHUB_FUNDAMENTALS.md) to learn how Git concepts map to GitHub features.
+
 ## Welcome
 
 - **Who is this for**: Beginner developers who want to learn Git version control
@@ -46,6 +48,19 @@ If the exercise isn't ready in 20 seconds, please check the [Actions](../../acti
 - If the page shows a failed job, please submit an issue. Nice, you found a bug! 🐛
 
 </details>
+
+## What's Next?
+
+### 🎯 GitHub Fundamentals
+After completing this exercise, you've mastered Git basics! Now learn how these concepts power collaboration on GitHub:
+
+📘 **[Read GitHub Fundamentals Guide](./GITHUB_FUNDAMENTALS.md)** - Learn how Git concepts map to GitHub features like Pull Requests, Issues, Actions, and more.
+
+### 📚 More GitHub Skills Exercises
+- [Review Pull Requests](https://github.com/skills/review-pull-requests)
+- [Resolve Merge Conflicts](https://github.com/skills/resolve-merge-conflicts)
+- [GitHub Pages](https://github.com/skills/github-pages)
+- [GitHub Actions](https://github.com/skills/hello-github-actions)
 
 ---
 

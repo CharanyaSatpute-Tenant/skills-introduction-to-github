@@ -14,6 +14,16 @@ Here's a recap of your accomplishments:
 - Worked with branches for safe experimentation
 - Learned collaboration concepts and Git hosting services
 
+### 🎯 Ready for GitHub?
+
+Now that you've mastered Git fundamentals, learn how these concepts power collaboration on GitHub!
+
+📘 **[Read the GitHub Fundamentals Guide](../GITHUB_FUNDAMENTALS.md)** to understand:
+- How Git concepts map to GitHub features
+- Pull Requests, Issues, and GitHub Actions
+- Best practices for team collaboration
+- GitHub workflow examples
+
 ### What's next?
 
 Want to keep going? Try one of these other exercises! :octocat:
