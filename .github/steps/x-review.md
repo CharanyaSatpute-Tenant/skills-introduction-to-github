@@ -18,7 +18,7 @@ Here's a recap of your accomplishments:
 
 Now that you've mastered Git fundamentals, learn how these concepts power collaboration on GitHub!
 
-📘 **[Read the GitHub Fundamentals Guide](../GITHUB_FUNDAMENTALS.md)** to understand:
+📘 **[Read the GitHub Fundamentals Guide](../../GITHUB_FUNDAMENTALS.md)** to understand:
 - How Git concepts map to GitHub features
 - Pull Requests, Issues, and GitHub Actions
 - Best practices for team collaboration
